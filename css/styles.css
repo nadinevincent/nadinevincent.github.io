@@ -27,7 +27,7 @@ body {
 }
 ::selection {
 	color: #fff;
-	background: #F049B2;
+	background: #F5F5DC;
 }
 
 ::-moz-selection {
