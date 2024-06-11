@@ -167,7 +167,7 @@ a:hover {
 }
 .copyright {
 	color: #FFF4F4;
-	background: #EF48B1;
+	background: #F5F5DC;
 	padding: 20px 0;
 }
 #top {
@@ -180,7 +180,7 @@ a:hover {
 	z-index: 5;
 }
 .topHome:hover {
-	color: #F89F9F;
+	color: #F5F5DC;
 }
 h2, .h2 {
 	font-size: 43px;
